@@ -1,0 +1,7 @@
+/target
+gitnote.git
+/content
+
+authorized_keys
+/.cargo
+.env
